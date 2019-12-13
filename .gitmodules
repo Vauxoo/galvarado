@@ -1,0 +1,6 @@
+[submodule "alvarado"]
+	path = alvarado
+	url = git@git.vauxoo.com:vauxoo/alvarado.git
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
