@@ -1,6 +1,8 @@
 [submodule "alvarado"]
 	path = alvarado
 	url = git@git.vauxoo.com:vauxoo/alvarado.git
+	branch = 12.0
 [submodule "costarica"]
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 12.0
